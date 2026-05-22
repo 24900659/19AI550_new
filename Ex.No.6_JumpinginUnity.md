@@ -49,6 +49,7 @@ public class PlayerJump : MonoBehaviour
 ```
 ### Output:
 
+<img width="1426" height="758" alt="WhatsApp Image 2026-05-22 at 09 03 10" src="https://github.com/user-attachments/assets/944b2f20-d958-4a98-ade6-d730bc3d904d" />
 
 
 
