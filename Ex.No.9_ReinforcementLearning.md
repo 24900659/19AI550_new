@@ -159,6 +159,7 @@ behaviors:
     summary_freq: 10000
 ### Output:
 
+<img width="1312" height="734" alt="Screenshot (685)" src="https://github.com/user-attachments/assets/fe269d12-540b-4be4-b6f4-5f5c1635b837" />
 
 
 
