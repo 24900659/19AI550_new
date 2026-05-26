@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 26-05-26                                                                           
+### REGISTER NUMBER : 212224240093
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
 ### Installation Required 
@@ -159,6 +159,7 @@ behaviors:
     summary_freq: 10000
 ### Output:
 
+<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/18408543-6735-42cc-803c-00417188cfc2" />
 
 
 
