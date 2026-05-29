@@ -157,7 +157,10 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
 ### Output:
+<img width="1432" height="802" alt="WhatsApp Image 2026-05-26 at 08 02 08" src="https://github.com/user-attachments/assets/d8e7e5b9-61d5-4cdc-acc0-145983ff0c58" />
+
 
 
 
